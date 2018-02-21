@@ -1,0 +1,22 @@
+{
+    "name": "nassajis/laravel-adobe-connect",
+    "description": "Adobe Connect Integration for Laravel 5.*",
+    "authors": [
+        {
+            "name": "Nassaji",
+            "email": "nassaji.s@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "nassajis/adobe-connect": "^0.1.1",
+        "illuminate/support": "5.*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nassajis\\AdobeConnect\\": "src/Nassajis/AdobeConnect"
+        }
+    },
+    "minimum-stability": "dev"
+}
