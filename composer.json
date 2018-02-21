@@ -9,7 +9,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "nassajis/adobe-connect": "^0.1.1",
+        "nassajis/adobe-connect": "^0.1.2",
         "illuminate/support": "5.*"
     },
     "license": "MIT",
